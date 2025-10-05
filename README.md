@@ -76,7 +76,7 @@
 <p align="center">
   <a href="mailto:yakamoz.demir@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://linkedin.com/in/yakamozdemir"><img src="https://img.shields.io/badge/LinkedIn-Yakamoz%20Demir-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/yakamozdemir"><img src="[https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github](https://github.com/MaresFe)" /></a>
+  <a href="https://github.com/yakamozdemir"><img src="https://github.com/MaresFe" /></a>
 </p>
 
 ---
