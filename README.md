@@ -1,80 +1,107 @@
-<h1 align="center">Yakamoz Demir</h1>
+<h1 align="center">👨‍💻 Yakamoz Demir</h1>
 
 <p align="center"><b>Computer Engineering Student | AI & Software Development Enthusiast</b></p>
 
 <p align="center">
-  <a href="#projects"><img alt="Projects" src="https://img.shields.io/badge/Projects-Active-blue"/></a>
-  <a href="#skills"><img alt="Skills" src="https://img.shields.io/badge/Skills-Python%20%7C%20Java%20%7C%20C%2B%2B-green"/></a>
-  <a href="#education"><img alt="Education" src="https://img.shields.io/badge/Education-Computer%20Engineering-yellow"/></a>
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Software%20Engineering-blue?style=for-the-badge&logo=ai" />
+  <img src="https://img.shields.io/badge/Language-Python%20%7C%20Java%20%7C%20C++-green?style=for-the-badge&logo=code" />
+  <img src="https://img.shields.io/badge/Tools-Git%20%7C%20Linux%20%7C%20FastAPI-orange?style=for-the-badge&logo=tools" />
 </p>
 
 ---
 
-## 👋 About Me
+## 🧠 About Me
 
-* 🎓 **Computer Engineering student** with strong interest in software systems and artificial intelligence.
-* 💡 Focused on building efficient, scalable, and practical solutions.
-* 🧠 Learning areas: **AI**, **Data Science**, **Software Design Patterns**, **Embedded Systems**.
-* 🔍 Interested in research about the **integration of AI into education** and human–machine collaboration.
-* 💻 Always improving in **algorithmic thinking**, **clean code**, and **problem-solving**.
+🎓 **Computer Engineering Student** at *Turgut Özal University*
+💡 Passionate about **Artificial Intelligence**, **Software Architecture**, and **Embedded Systems**
+🔍 Interested in **data-driven applications** and **educational AI models (KOHSİM)**
+📚 Focused on mastering **algorithm design**, **OOP principles**, and **system-level programming**
+💻 Constantly learning, improving, and building meaningful projects.
 
-> "Code is a tool; logic is the art."
-
----
-
-## 🧰 Technical Skills <a id="skills"></a>
-
-**Programming Languages:**
-
-* Python · Java · C++ · C · JavaScript
-
-**Frameworks & Libraries:**
-
-* FastAPI · Spring Boot · NumPy · Pandas · Matplotlib
-
-**Database & Tools:**
-
-* MySQL · SQLite · Git · GitHub · Linux · Docker (basics)
-
-**Concepts:**
-
-* Object-Oriented Programming (OOP) · Data Structures & Algorithms
-* Operating Systems · Microprocessor Systems · Software Engineering
+> "Code with logic. Design with reason. Build with vision."
 
 ---
 
-## 🚀 Projects <a id="projects"></a>
+## 🧰 Technical Skills
 
-### 🔹 Smart Security System (Embedded Project)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,c,git,github,linux,docker,fastapi,spring,mysql,vscode&perline=7" />
+</p>
 
-**Description:** A microcontroller-based system that detects motion and triggers response mechanisms.
-**Components:** PIR sensor, servo motor, relay, OLED display.
-**Focus:** Real-time embedded systems and circuit design.
-
-### 🔹 KOHSİM Research Tool
-
-**Description:** A hybrid class model integrating AI tools to improve learning experience.
-**Focus:** Educational technology, AI evaluation, data visualization.
-
----
-
-## 🎯 Current Goals
-
-* [ ] Improve algorithmic skills through **LeetCode** and **Hackerrank**.
-* [ ] Learn **Spring Boot** for Java backend development.
-* [ ] Develop a small-scale **AI-assisted web app** using FastAPI.
-* [ ] Strengthen understanding of **operating systems** and **network fundamentals**.
-* [ ] Contribute to open-source projects related to education and AI.
+**Core Skills:**
+✔️ Data Structures & Algorithms
+✔️ Object-Oriented Programming
+✔️ Operating Systems · Microprocessors
+✔️ Software Engineering & Documentation
 
 ---
 
-## 🧭 Education <a id="education"></a>
+## 🚀 Projects
 
-**University:** Turgut Özal University
-**Major:** Computer Engineering
-**Focus Areas:** Software Design, AI Systems, and Cybersecurity
-**Projects:** AI-supported learning tools, security system prototyping.
+### 🧮 COCOMO Cost Estimation Tool
+
+📊 *A Python-based program that calculates project effort, duration, and cost using the COCOMO model.*
+💼 **Focus:** Software project metrics and cost analysis
+🧩 **Stack:** Python, CLI interface
+📂 **Status:** Active development
+
+### 🧠 KOHSİM Research Project
+
+🎓 *AI-driven hybrid learning model integrating technology and pedagogy.*
+🔬 **Focus:** AI in education, LLM evaluation, prompt testing
+📈 **Stack:** Python, Jupyter, Pandas, Matplotlib
+📂 **Status:** Research & prototype stage
+
+### 🔐 Smart Security System
+
+⚙️ *An embedded project using microcontrollers for automated motion detection and control.*
+🔧 **Components:** PIR sensor, OLED display, relay, servo motor
+📂 **Status:** Prototype completed
 
 ---
 
-<p align="center"><i>“Engineering is applied curiosity.”</i></p>
+## 🎯 Goals
+
+* 📘 Master **Spring Boot** for backend systems
+* ⚙️ Build an **AI-powered web application** using FastAPI
+* 📚 Publish open-source tools for engineering students
+* 💬 Practice **algorithm optimization** daily
+* 🔗 Collaborate on academic and research projects
+
+---
+
+## 🎓 Education
+
+🎓 **Turgut Özal University** — *Computer Engineering*
+📆 **Focus Areas:** Software Systems, Artificial Intelligence, Cybersecurity
+🏗️ **Current Work:** AI-assisted learning and embedded prototypes
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yakamozdemir&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakamozdemir&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yakamozdemir&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="mailto:yakamoz.demir@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://linkedin.com/in/yakamozdemir"><img src="https://img.shields.io/badge/LinkedIn-Yakamoz%20Demir-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/yakamozdemir"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" /></a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Engineering is not just about writing code — it’s about understanding systems.”</i>
+</p>
+
