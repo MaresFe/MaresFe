@@ -45,12 +45,6 @@
 
 ## 🚀 Projects <a id="projects"></a>
 
-### 🔹 COCOMO Cost Estimation Tool
-
-**Description:** A program that estimates project cost, effort, and duration using the COCOMO model.
-**Tech:** Python, CLI-based.
-**Focus:** Software metrics and project management modeling.
-
 ### 🔹 Smart Security System (Embedded Project)
 
 **Description:** A microcontroller-based system that detects motion and triggers response mechanisms.
